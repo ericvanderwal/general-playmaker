@@ -1,7 +1,3 @@
-# general-playmaker
-General playmaker custom actions
-
-
 # General Playmaker Actions
 
 These c# files have been created to be used in conjunction with the Unity3d asset Playmaker
